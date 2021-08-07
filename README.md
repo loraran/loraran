@@ -7,7 +7,7 @@
   <img align="center" alt="JavaScript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-###### 📫 You can contact me through <a href="mailto:loreaarao@gmail.com">gmail</a> or <a href="https://www.linkedin.com/in/lorenaarao">linkedin</a>.
+###### 📫 You can contact me through <a href="mailto:loreaarao@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/lorenaarao">linkedin</a>.
 
 ---
 
