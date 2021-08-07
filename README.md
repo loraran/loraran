@@ -1,16 +1,18 @@
-### Hi there 👋
+###### Currently working with:
+<div style="display: block">
+  <img align="center" alt="MATLAB" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="JavaScript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
-<!--
-**loraran/loraran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### 📫 You can contact me through <a href="mailto:loreaarao@gmail.com">gmail</a> or <a href="https://www.linkedin.com/in/lorenaarao">linkedin</a>.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/loraran">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=loraran&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
