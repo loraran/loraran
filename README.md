@@ -7,12 +7,12 @@
   <img align="center" alt="JavaScript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-###### 📫 You can contact me through <a href="mailto:loreaarao@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/lorenaarao">linkedin</a>.
+###### 📬 You can contact me through <a href="mailto:loreaarao@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/lorenaarao">linkedin</a>.
 
 ---
 
 <div>
   <a href="https://github.com/loraran">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=loraran&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=loraran&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   </a>
 </div>
